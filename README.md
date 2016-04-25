@@ -1,0 +1,2 @@
+# Namaste
+just another repository
